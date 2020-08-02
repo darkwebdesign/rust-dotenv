@@ -1,0 +1,15 @@
+[package]
+name = "darkweb-dotenv"
+version = "0.1.0-beta1"
+authors = ["Raymond Schouten"]
+edition = "2018"
+
+description = "A library that eases configuration via .env environment files"
+repository = "https://github.com/darkwebdesign/rust-dotenv"
+readme = "README.md"
+license = "MIT"
+keywords = [".env", "dotenv", "php", "symfony"]
+categories = ["development-tools"]
+
+[dependencies]
+regex = "1.3.9"
