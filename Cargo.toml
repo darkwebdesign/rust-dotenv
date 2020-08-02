@@ -8,7 +8,7 @@ description = "A library that eases configuration via .env environment files"
 repository = "https://github.com/darkwebdesign/rust-dotenv"
 readme = "README.md"
 license = "MIT"
-keywords = [".env", "dotenv", "php", "symfony"]
+keywords = ["env", "dotenv", "php", "symfony"]
 categories = ["development-tools"]
 
 [dependencies]
